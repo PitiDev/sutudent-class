@@ -1,0 +1,230 @@
+{
+    "navbar": [
+        {
+            "title": "home",
+            "path": "/",
+            "text": true
+        },
+        {
+            "title": "freelancer",
+            "path": "/freelancer",
+            "text": true
+        },
+        {
+            "title": "blog",
+            "path": "/blog",
+            "text": true
+        },
+        {
+            "title": "product",
+            "path": "/product",
+            "text": true
+        },
+        {
+            "title": "login",
+            "path": "/login",
+            "text": false
+        }
+    ],
+    "services": [
+        {
+            "title": "freelancer",
+            "description": "make you earn money",
+            "img": "./services/freelancer.png"
+        },
+        {
+            "title": "business",
+            "description": "run your own boss",
+            "img": "./services/business.png"
+        },
+        {
+            "title": "resume",
+            "description": "create your own resume",
+            "img": "./services/resume.png"
+        }
+    ],
+    "aboutUs": [
+        {
+            "title": "Heigh Performance",
+            "description": "create modern web applications",
+            "img": "./about/setting.png",
+            "class": " cursor"
+        },
+        {
+            "title": "SPA",
+            "description": "Single Page Application.",
+            "img": "./about/vue.png",
+            "class": "mt-plus-20 cursor"
+        },
+        {
+            "title": "SEO",
+            "description": "Search Engine Optimization -friendly",
+            "img": "./about/safari.png",
+            "class": "mt-mi-20 cursor"
+        },
+        {
+            "title": "PWA",
+            "description": "Progressive web application.",
+            "img": "./about/wifi.png",
+            "class": "cursor"
+        }
+    ],
+    "aboutUsList": [
+        "Make social network in Laos for developer ",
+        "Become to Earn money by your own skill",
+        "Private communicate with you our client ",
+        "Make you the best profile, and resume  "
+    ],
+    "products": [
+        {
+            "title": "e-commerce",
+            "description": "create e-commerce website.",
+            "img": "./products/e-commerce.png"
+        },
+        {
+            "title": "market ",
+            "description": "phonesavanh market system management.",
+            "img": "./products/phonesavanh.png"
+        },
+        {
+            "title": "school",
+            "description": "vungvieng Collage system management.",
+            "img": "./products/school.png"
+        }
+    ],
+    "model_register": [
+        {
+            "title": "continue with facebook",
+            "icon": "fab fa-facebook",
+            "bg_color": "#4267B2",
+            "icon_color": "white",
+            "text_color": " white--text",
+            "outline": false,
+            "type": "facebook"
+        },
+        {
+            "title": "continue with google",
+            "icon": "fab fa-google",
+            "bg_color": "black",
+            "icon_color": "red",
+            "text_color": " black--text ",
+            "outline": true,
+            "type": "google"
+        },
+        {
+            "title": "continue with apple",
+            "icon": "fab fa-apple",
+            "bg_color": "black",
+            "icon_color": "black",
+            "text_color": " black--text",
+            "outline": true,
+            "type": "apple"
+        },
+        {
+            "title": "continue with github",
+            "icon": "fab fa-github",
+            "bg_color": "#000000",
+            "icon_color": "white",
+            "text_color": " white--text",
+            "outline": false,
+            "type": "github"
+        }
+    ],
+    "sideBarLeft": [
+        {
+            "icon": "fal fa-user",
+            "title": "profile",
+            "path": "/dashboard"
+        },
+        {
+            "icon": "fal fa-cog",
+            "title": "setting",
+            "path": "/dashboard/setting"
+        },
+        {
+            "icon": "fal fa-rss",
+            "title": "blog",
+            "path": "/dashboard/blog"
+        },
+        {
+            "divider": true
+        },
+        {
+            "icon": "fal fa-shopping-bag",
+            "title": "experience",
+            "path": "/dashboard/experience"
+        },
+        {
+            "icon": "fas fa-award",
+            "title": "skill",
+            "path": "/dashboard/skill"
+        },
+        {
+            "icon": "fal fa-share-alt-square",
+            "title": "social",
+            "path": "/dashboard/social"
+        },
+        {
+            "icon": "fal fa-user-graduate",
+            "title": "education",
+            "path": "/dashboard/education"
+        },
+        {
+            "icon": "fal fa-address-card",
+            "title": "resume",
+            "path": "/dashboard/resume"
+        }
+    ],
+    "users": [
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+            "title": "Brunch this weekend?",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+            "title": "Summer BBQ",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+            "title": "Oui oui",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+            "title": "Birthday gift",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+            "title": "Recipe to try",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/1.jpg",
+            "title": "Brunch this weekend?",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/2.jpg",
+            "title": "Summer BBQ",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/3.jpg",
+            "title": "Oui oui",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/4.jpg",
+            "title": "Birthday gift",
+            "subtitle": "Jan 9, 2014"
+        },
+        {
+            "avatar": "https://cdn.vuetifyjs.com/images/lists/5.jpg",
+            "title": "Recipe to try",
+            "subtitle": "Jan 9, 2014"
+        }
+    ]
+}

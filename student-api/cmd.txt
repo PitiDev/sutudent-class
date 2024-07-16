@@ -1,0 +1,4 @@
+how to run API
+
+1, nodemon server.js
+2, node server.js

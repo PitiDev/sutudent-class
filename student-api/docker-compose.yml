@@ -1,0 +1,12 @@
+version: '3.4'
+
+services:
+  api-mao:
+    image: sjc.vultrcr.com/paimao/mao-api:latest
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    environment:
+      NODE_ENV: production
+    ports:
+      - 9999:9999

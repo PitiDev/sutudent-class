@@ -1,0 +1,128 @@
+@font-face {
+  src: url("./fonts/DefagoNotoSans-La v2.3.ttf");
+  font-family: 'DefagoNotoSans-La';
+  font-weight: normal;
+}
+
+
+code,
+kbd,
+pre,
+.k-font,
+.v-application,
+.v-application .text-sm-h5,
+section,
+section .container .row .col-12 h2.k-font,
+h2.text-h3.text-lg-h2,
+.v-responsive__content .text-h6.mt-3,
+.text-h6.text-lg-h5.mt-5,
+.mt-2.text-h5,
+.text-center .text-uppercase.font-weight-bold.body-2.primary--text.mb-2,
+.text-center div .text-h3,
+.text-h6.text-lg-h5.mt-4,
+.col-12 h3.text-h3,
+.text-h6.text-lg-h5.my-3,
+.text-h6.text-lg-h5.font-weight-bold,
+.primary--text.text--lighten-1.text-body-1.mt-1.mb-2,
+.primary--text.text--lighten-1.text-body-1.mt-1.mb-4,
+.d-flex.align-center .mx-3.overline,
+.v-list-item__content .overline.mb-4,
+.v-list-item__title.headline.mb-1.text-capitalize,
+.single-blog-inner .post-title h3 a,
+.single-blog-inner .post-details p,
+.widget-body .extra-link .link-right ul li a,
+.widget-body .extra-link .link-left ul li a,
+h4.text-capitalize,
+.v-application a.title,
+.v-application h1.text-h4,
+h4.subheading,
+span.v-btn__content,
+.v-application p,
+span.body-1.font-weight-bold.text-capitalize,
+.apexcharts-text tspan,
+span.body-1 text-capitalize,
+.v-card .v-card__title span.body-1,
+.v-card .v-card__text p.text-h5.green--text,
+.v-card .v-card__text p.text-h5.text--primary,
+.v-card .v-card__text div.text-capitalize.text-h6,
+.v-card .v-card__text .text-h5.red--text,
+.font,
+.v-card__title.body-1.font-weight-bold.text-capitalize,
+.v-application .body-1,
+span.text-capitalize.title,
+.v-card__title.mb-3 .text-capitalize.title,
+ul li,
+.v-card__text ul li.text-h6,
+.v-card__title span.headline,
+ul.list-none li.text-h6,
+.container-xl h5.text-h5,
+h5.text-h5,
+.v-application .text-h1,
+.v-application h1.text-h2,
+.v-application h2,
+.swal2-content .swal2-html-container,
+h2.swal2-title,
+.v-application h4.subheading,
+.v-application .v-list-item__content .v-list-item__title.text-h5.mb-1,
+.v-application .v-card .v-card__title.text-h5,
+.v-application .pb-2,
+.v-application .v-text-field__slot input,
+.swal2-actions button,
+.text-h4 .font-weight-bold,
+.v-card__title .font-weight-bold,
+.v-card__text.font-weight-black.text-h6,
+html,
+samp {
+  font-family: "poppins", "DefagoNotoSans-La", sans-serif !important;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 3px;
+  height: 3px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #2699fb;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #2699fb;
+}
+
+.v-navigation-drawer__border {
+  position: absolute;
+  right: 0;
+  top: 0;
+  height: 100%;
+  width: 0px !important;
+}
+
+.v-navigation-drawer.v-navigation-drawer--fixed.v-navigation-drawer--open .v-navigation-drawer__content .v-list a.v-list-item.btn-active-link {
+  background-color: rgba(38, 153, 251, 0.14118);
+  border-left: 3px solid #2699fb;
+  border-radius: 15px;
+}
+
+.page-enter-active,
+.page-leave-active {
+  transition: opacity 0.2s;
+}
+
+.page-enter,
+.page-leave-to {
+  opacity: 0;
+}
+
+.shadow-me {
+  box-shadow: 0 10px 17px 0 rgba(0, 0, 0, 0.116) !important;
+}

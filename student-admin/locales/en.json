@@ -1,0 +1,23 @@
+{
+  "index": "home",
+  "home": "home",
+  "shop": "shop",
+  "user": "user",
+  "banner": "banner",
+  "category": "category",
+  "trend": "trend",
+  "commission": "commission",
+  "flash": "flash sale",
+  "popular": "popular",
+  "recommend": "recommend",
+  "searchText": "search Text",
+  "bank": "bank",
+  "backup": "backup",
+  "report": "report",
+  "export": "export",
+  "role": "role",
+  "apps": "apps",
+  "general": "general",
+  "manage": "manage product",
+  "utils": "utils"
+}
