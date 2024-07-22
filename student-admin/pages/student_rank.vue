@@ -99,8 +99,10 @@
                         <br>
                     </div>
                     <div>
-                        
-                        <img class="text-center mb-2 center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/1200px-Emblem_of_Laos.svg.png" width="5%" alt="" srcset="">
+
+                        <img class="text-center mb-2 center"
+                            src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Emblem_of_Laos.svg/1200px-Emblem_of_Laos.svg.png"
+                            width="5%" alt="" srcset="">
                         <h2 class="text-center">ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນລາວ</h2>
                         <h2 class="text-center">ສັນຕິພາບ ເອກະລາດ ປະຊາທິປະໄຕ ເອກະລາດ ພັດທະນະຖາວອນ</h2>
                         <br>
@@ -151,6 +153,9 @@
                                         <th width="0.2%">
                                             <div class="vertical-text ma-1">ລວມຄະແນນ</div>
                                         </th>
+                                        <th width="0.2%">
+                                            <div class="vertical-text ma-1">ຈັດອັນດັບທີ</div>
+                                        </th>
 
                                     </tr>
                                 </thead>
@@ -173,6 +178,7 @@
                                         <td>{{ item.laostudy }}</td>
                                         <td>{{ item.english }}</td>
                                         <td><b>{{ item.total_score }}</b></td>
+                                        <td><b>{{ index + 1 }}</b></td>
                                     </tr>
                                 </tbody>
                             </template>
@@ -316,9 +322,10 @@ td {
         display: block;
     }
 }
+
 .center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 </style>

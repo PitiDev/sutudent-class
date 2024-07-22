@@ -257,7 +257,7 @@ export default {
       ],
       processMenu2: [
         {
-          title: "ຂໍ້ມູນມື້ຂາດ",
+          title: "ບັນທືກມື້ຂາດ",
           group: "apps",
           icon: "mdi mdi-close-octagon",
           name: "home",
